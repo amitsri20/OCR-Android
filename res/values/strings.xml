@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World,OCRActivity!</string>
+    <string name="app_name">My OCR</string>
+    <string name="button_text">OCR!</string>
+    <string name="text_hint">Recognized Text will appear here!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_camera">My OCR</string>
+    <string name="title_activity_text">Recognized Text</string>
+
+</resources>
